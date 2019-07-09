@@ -1,4 +1,4 @@
-# 21daysofsolidity
+# 21 days of Solidity
 21 Days of Solidity Smart Contract programming by WWCode
 
 ### Day 1 
